@@ -10,7 +10,7 @@ For me I expect a bigger learnimg curve, but on the other hand I think basic fea
 
 Finding some mentorship here on github would be nice, especially when things got stuck on the way .. 
 
-Hi level purpose of the app: a companion to enter events into a UI and perform some data requests in the background and combine that into a database. Get reports from that.
+Hi level purpose of the app: a companion to enter events into a UI and perform some data requests in the background and combine that into a database. And finally get certain reports from that. Shall make a diabetics life easier.
 
 Open for discussions about code and strategies: a.zern@zern.de
 
